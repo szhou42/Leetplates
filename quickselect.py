@@ -30,3 +30,10 @@ class Solution:
         t = nums[i]
         nums[i] = nums[j]
         nums[j] = t
+
+"""
+Practice Problems:
+https://leetcode.com/problems/top-k-frequent-elements
+https://leetcode.com/problems/k-closest-points-to-origin
+https://leetcode.com/problems/kth-largest-element-in-an-array
+"""
