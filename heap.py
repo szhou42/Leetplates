@@ -86,6 +86,7 @@ Practice Problems:
 https://leetcode.com/problems/merge-k-sorted-lists
 https://leetcode.com/problems/find-median-from-data-stream
 
-Marginally related to heap, if you want more practice:
+Marginally related to heap, if you want more practice(i.e you can solve it with a heap, but it's not the key point or the only way to solving the problem):
 https://leetcode.com/problems/meeting-rooms-ii
+https://leetcode.com/problems/ugly-number-ii
 """
