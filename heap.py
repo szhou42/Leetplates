@@ -84,6 +84,7 @@ print(h.peak())
 """
 Practice Problems:
 https://leetcode.com/problems/merge-k-sorted-lists
+https://leetcode.com/problems/find-median-from-data-stream
 
 Marginally related to heap, if you want more practice:
 https://leetcode.com/problems/meeting-rooms-ii
