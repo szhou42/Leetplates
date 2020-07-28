@@ -86,6 +86,8 @@ Practice Problems:
 https://leetcode.com/problems/merge-k-sorted-lists
 https://leetcode.com/problems/find-median-from-data-stream
 https://leetcode.com/problems/employee-free-time
+https://leetcode.com/problems/kth-largest-element-in-a-stream (keep a k-size minheap and add numbers in it, anything smaller than kth largest elements gets kicked out)
+
 
 Marginally related to heap, if you want more practice(i.e you can solve it with a heap, but it's not the key point or the only way to solving the problem):
 https://leetcode.com/problems/meeting-rooms-ii
