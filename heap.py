@@ -83,7 +83,11 @@ print(h.peak())
 
 """
 Practice Problems:
-https://leetcode.com/problems/sort-characters-by-frequency (maybe a bit simple, do it if you need more practice using heap)
+
+#simple ones, if you need more practice:
+https://leetcode.com/problems/last-stone-weight
+https://leetcode.com/problems/sort-characters-by-frequency
+
 https://leetcode.com/problems/merge-k-sorted-lists
 https://leetcode.com/problems/find-median-from-data-stream
 https://leetcode.com/problems/employee-free-time
