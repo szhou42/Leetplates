@@ -96,7 +96,7 @@ https://leetcode.com/problems/reorganize-string
 https://leetcode.com/problems/kth-largest-element-in-a-stream (keep a k-size minheap and add numbers in it, anything smaller than kth largest elements gets kicked out)
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
-
+https://leetcode.com/problems/trapping-rain-water-ii
 
 
 Marginally related to heap, if you want more practice(i.e you can solve it with a heap, but it's not the key point or the only way to solving the problem):
