@@ -100,6 +100,7 @@ https://leetcode.com/problems/trapping-rain-water-ii
 https://leetcode.com/problems/ipo
 https://leetcode.com/problems/super-ugly-number
 https://leetcode.com/problems/rearrange-string-k-distance-apart
+https://leetcode.com/problems/minimum-cost-to-hire-k-workers
 
 Marginally related to heap, if you want more practice(i.e you can solve it with a heap, but it's not the key point or the only way to solving the problem):
 https://leetcode.com/problems/meeting-rooms-ii
