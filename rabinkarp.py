@@ -31,3 +31,4 @@ rk = RabinKarp("123")
 print(rk.search("abcde123f")) # should print 5
 
 # Here's a good video for learning rabin karp: https://www.coursera.org/lecture/algorithms-part2/rabin-karp-3KiqT
+# Note: try to write a blog explaining this algorithm to solidify understanding
