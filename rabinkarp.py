@@ -22,6 +22,7 @@ class RabinKarp:
             return 0
         
         for i in range(self.M, N):
+            # Here we're adding self.Q just to ensure the whole thing is positive, it doesn't change anything else because we'll do % self.Q in the end
             s_hash = (s_hash + self.Q - (ord(s[i-self.M]) * self.RM) % self.Q) % self.Q
             s_hash = (s_hash * self.R + ord(s[i])) % self.Q
             if s_hash == self.pattern_hash:
